@@ -11,7 +11,7 @@
 		<module>mq-biz</module>
 		<module>mq-rest</module>
         <module>mq-ui</module>		
-		<module>mq-client-test-001</module>	
+		<module>mq-client</module>
 		<module>mq-proxy</module>
     </modules>
 	<properties>
